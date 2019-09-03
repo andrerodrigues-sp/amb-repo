@@ -1,6 +1,6 @@
 personagem 1
 personagem 2
 personagem 3
-personagem 4
-personagem 5
+
+#Aqui vamos eliminar estes comentários e criar personagens de verdade.
 
